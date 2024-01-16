@@ -1,0 +1,10 @@
+.{
+    .name = "eigen",
+    .version = "3.4.0-headers",
+    .dependencies = .{},
+    .paths = .{
+        "Eigen",
+        "build.zig",
+        "build.zig.zon",
+    },
+}
